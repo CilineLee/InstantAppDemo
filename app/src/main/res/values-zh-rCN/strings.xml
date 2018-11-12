@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_feature_01">特性 01</string>
+    <string name="btn_feature_02">特性 02</string>
+
+    <string name="feature_01_desc">这是特性01的界面</string>
+    <string name="feature_02_desc">这是特性02的界面</string>
+
+</resources>

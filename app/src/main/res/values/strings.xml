@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">InstantAppDemo</string>
+    <string name="btn_feature_01">Feature 01</string>
+    <string name="btn_feature_02">Feature 02</string>
+    <string name="feature_01_desc">This is page of feature 01</string>
+    <string name="feature_02_desc">This is page of feature 02</string>
+    <string name="title_dynamic_feature01">Feature01</string>
+
 </resources>
